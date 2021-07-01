@@ -1,0 +1,7 @@
+/venv
+*.pbmm*
+*.scorer*
+.idea
+*__pycache__*
+test_pb2.py
+test_pb2_grpc.py
